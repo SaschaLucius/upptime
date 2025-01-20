@@ -4,19 +4,19 @@
     "url": "https://scrum-guide.schraubgewin.de/",
     "icon": "https://icons.duckduckgo.com/ip3/scrum-guide.schraubgewin.de.ico",
     "slug": "scrum-guide",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 984,
-    "timeDay": 876,
-    "timeWeek": 925,
-    "timeMonth": 957,
-    "timeYear": 984,
+    "time": 982,
+    "timeDay": 759,
+    "timeWeek": 890,
+    "timeMonth": 944,
+    "timeYear": 982,
     "dailyMinutesDown": {
-      "2025-01-20": 0
+      "2025-01-20": 6
     }
   }
 ]
