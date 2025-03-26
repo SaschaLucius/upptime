@@ -6,15 +6,15 @@
     "slug": "scrum-guide",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "90.68%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.67%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.96%",
-    "time": 960,
-    "timeDay": 1266,
-    "timeWeek": 954,
-    "timeMonth": 917,
-    "timeYear": 960,
+    "time": 962,
+    "timeDay": 1308,
+    "timeWeek": 1006,
+    "timeMonth": 933,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2025-03-24": 134
     }
