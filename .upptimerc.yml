@@ -3,8 +3,16 @@ owner: SaschaLucius # Your GitHub organization or username, where this repositor
 repo: upptime # The name of this repository
 
 sites:
-  - name: Scrum-Guide
-    url: https://scrum-guide.schraubgewin.de/
+  - name: Flow-Timer
+    url: https://flow-timer.de/
+  - name: Svelte Umami
+    url: https://saschalucius.github.io/svelte-umami/
+  - name: Constellation Board
+    url: https://saschalucius.github.io/constellation-board/
+  - name: HeadBook
+    url: https://saschalucius.github.io/headBook/
+  - name: Scrum-GUI
+    url: https://scrum-gui.de/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
